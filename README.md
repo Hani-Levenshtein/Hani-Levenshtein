@@ -1,2 +1,1 @@
-- (2022.03.28 - ) HYPERCONNECT Azar iOS Developer
-- (2021.07.19 - 2021.12.03) NAVER Connect boostcamp
+
